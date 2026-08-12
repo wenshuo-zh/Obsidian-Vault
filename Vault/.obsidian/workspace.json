@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/线路位宽 CPU位宽.md",
-                "mode": "source",
+                "file": "操作系统/硬件结构/CPU执行程序.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线路位宽 CPU位宽"
+              "title": "CPU执行程序"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/线路位宽 CPU位宽.md",
+                "file": "操作系统/硬件结构/CPU执行程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/线路位宽 CPU位宽.md",
+                "file": "操作系统/硬件结构/CPU执行程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/线路位宽 CPU位宽.md",
+                "file": "操作系统/硬件结构/CPU执行程序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,10 +191,14 @@
   },
   "active": "f510ae3777a453a3",
   "lastOpenFiles": [
+    "操作系统/硬件结构/CPU执行程序.md.tmp.28832.1cf6e232c3ae",
+    "操作系统/硬件结构/CPU执行程序.md.tmp.28832.3e5c60663611",
+    "操作系统/硬件结构",
+    "操作系统/未命名.canvas",
+    "操作系统/硬件结构/CPU执行程序.md",
     "线路位宽 CPU位宽",
     "操作系统",
     "创建链接.md",
-    "操作系统/线路位宽 CPU位宽.md",
     "欢迎.md"
   ]
 }
