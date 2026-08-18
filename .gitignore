@@ -1,8 +1,8 @@
-.obsidian/cache
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/obsidian-git/data.json
-.obsidian/plugins/remotely-save/data.json
+Vault/.obsidian/cache
+Vault/.obsidian/workspace.json
+Vault/.obsidian/workspace-mobile.json
+Vault/.obsidian/plugins/obsidian-git/data.json
+Vault/.obsidian/plugins/remotely-save/data.json
 .DS_Store
 *.tmp
 *.swp
