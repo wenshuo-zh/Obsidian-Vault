@@ -193,7 +193,8 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
-![[771e41a517259f6a7fc9b6d5e5058afb.png|672]]实现了：
+![[771e41a517259f6a7fc9b6d5e5058afb.png|672]]
+实现了：
 1.  创建mc.txt文件并打开 /etc/passwd文件
 2.  后面的操作使用值为3的文件描述符操作/etc/passwd文件，使用值为7的文件描述符操作mc.txt文件
 3.  将 /etc/passwd的文件内容从第10个字节开始全部复制到mc.txt中
